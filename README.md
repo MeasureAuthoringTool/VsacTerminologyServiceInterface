@@ -43,5 +43,3 @@ Optionally, the checkstyle can be used via the command line:
 mvn checkstyle:check
 ```
 
-
-```
